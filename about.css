@@ -1,0 +1,31 @@
+body{
+    font-family: ;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(200, 213, 201);
+}
+section{
+  padding: 10% 10%;
+}
+.about{
+ 
+  width: 80%;
+    height: 100vh;
+    background-image: url('evergreen picsss/pexel.jpg');
+    background-position: center;
+    background-size: contain;
+    align-items: center;
+}
+h1{
+  font-family: "Edu AU VIC WA NT Pre", serif;
+  font-style: normal;
+  text-align: center;
+}
+
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+  text-align: justify;
+}
